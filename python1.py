@@ -1,0 +1,11 @@
+
+print("Hello World")
+print("My Name Bambang Riyanto")
+print("My Hobi Playing Game")
+print("My House In Depok")
+print("I Have A FrIend Named Gerald")
+print("I School At Smk Harapan Bangsa")
+print("I Like To Play Growtopia Game")
+print("I Am 15 Years Old")
+print("My Favorute Food Is Chicken")
+print("My Dream Is To Be An Entrepreneun")
